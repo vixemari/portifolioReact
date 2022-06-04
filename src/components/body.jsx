@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 import React from 'react';
 import Projetos from './meusProjetos';
 import Form from './form';
@@ -24,17 +25,10 @@ function Body() {
         <img src="https://user-images.githubusercontent.com/84882231/171765584-58b0ea8b-99b3-4a30-ae8c-72a1fb156437.png" alt="" width="500px" height="500px" />
         <article className="article-sobre">
           <p>
-            Meu nome é Mariana Rocha, tenho 27 anos Arquiteta e Urbanista
-            passando por um processo de transição de carreira
-            com estudos em Desenvolvimento Web Full Stack na Trybe uma
-            escola focada em ensino na prática.
-            O desenvolvimento de software sempre foi algo no meu radar
-            e tomei a decisão de encarar esse desafio. Quero ajudar
-            a desenvolver aplicações que façam sentido e melhorem a vida das pessoas.
-            Tenho conhecimento intermediário em JavaScript, React, HTML, CSS,
-            testes unitários, Git/GitHub, Redux, Context API, Hooks,
-            Docker, SQL, Node.js. Estou aberta para aprender outras
-            linguagens e frameworks.
+            Meu nome é Mariana Rocha, tenho 27 anos, sou formada em Arquitetura e Urbanismo e estou  passando por um processo de transição de carreira com estudos em desenvolvimento Web Full Stack na Trybe, uma escola focada em ensino na prática.
+            O desenvolvimento de software sempre foi meu radar e tomei a decisão de encarar esse desafio. Quero ajudar a desenvolver aplicações que fazem sentido e melhorem a vida das pessoas.
+            Tenho conhecimento intermediário em JavaScript, React, HTML, CSS, testes unitários, Git/GitHub, Redux, Context API, Hooks, Docker, SQL, Node.js.
+            Estou aberta para aprender outras linguagens e frameworks.
           </p>
         </article>
       </section>
